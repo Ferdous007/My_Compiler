@@ -1,0 +1,22 @@
+
+void main LB RB
+LP
+int a CMM b CMM c CMM d CMM f CMM g CMM h CMM i SMM
+a=5 SMM
+b=6 SMM
+c=2 SMM
+d=a**b//c SMM
+g=0 SMM
+h=1 SMM
+i=45 SMM
+sin LB g RB SMM
+cos LB g RB SMM
+tan LB i RB SMM
+log LB h RB SMM
+either LB 2 GT 1 RB
+1++2 SMM
+either LB 3--3 RB
+1++2 SMM
+or
+1++2++5**2 SMM
+RP
